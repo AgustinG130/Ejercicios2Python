@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "CSymDiff/src/Program/Program.sln",
+    "git.ignoreLimitWarning": true
+}
